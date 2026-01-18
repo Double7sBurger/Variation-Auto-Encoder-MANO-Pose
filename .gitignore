@@ -1,0 +1,22 @@
+# datasets / large artifacts
+*.npz
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+Compress/theta/
+hand_dataset/
+theta/
+Compress/outputs/
+
+# images
+*.png
+*.jpg
+*.jpeg
+
+# common
+__pycache__/
+*.pyc
+.DS_Store
+runs*/
