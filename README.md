@@ -35,4 +35,4 @@ run "eval_recon.py", then visualized evaluation matrices will shown in the new f
 
 Example:
 <img width="1200" height="300" alt="per_dim_mse" src="https://github.com/user-attachments/assets/3ec7bc33-e369-434e-b8fb-2440a00147b9" />
-<img width="1200" height="300" alt="per_dim_mse" src="https://github.com/user-attachments/assets/ca61b544-e96b-4e51-9b09-8a9641ae030c" />
+<img width="1000" height="300" alt="theta_overlay_04" src="https://github.com/user-attachments/assets/2529f60c-d644-42f2-854b-bc108b401ee4" />
